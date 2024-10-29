@@ -1,1 +1,1 @@
-
+通过ssh工具登陆路由器，进入etc/config文件夹，把openclash拖进去，然后进入路由器刷新既可
