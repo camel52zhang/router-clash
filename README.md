@@ -1,2 +1,4 @@
 # router-clash
 主路由及旁路由的openclash规则
+
+通过ssh工具登陆路由器，进入etc/config文件夹，根据需要把相关的openclash拖进去，然后进入路由器刷新既可 进入路由器后记得dns那里选择网络运营商提供的dns
